@@ -1,3 +1,12 @@
+before_install:
+  - sudo apt-get -y install firefox
+  - cd
+  - wget https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz
+  - tar xzf geckodriver-v0.25.0-linux64.tar.gz
+  - sudo mv geckodriver /usr/bin/geckodriver
+  - sudo apt -y install python3-pip
+  - pip3 -y install selenium
+  - pip3 -y install requests
 language: python
 cache: pip
 install:
