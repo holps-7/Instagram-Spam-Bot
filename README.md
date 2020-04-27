@@ -1,4 +1,6 @@
 # Instagram-Spam-Bot!
+### Coded by: @holps-7 (https://github.com/holps-7/Instagram-Spam-Bot/)
+### Give me the credits if you copy ANY part from this code. Don't be NOOB!!
 
 A simple script that can be used for spamming someones Instagram DM with random jokes and quotes
 
@@ -88,3 +90,9 @@ Feel free to create Pull Requests, for contributing.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+
+## Legal disclaimer:
+
+Usage of Instagram-Spam-Bot for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes.
