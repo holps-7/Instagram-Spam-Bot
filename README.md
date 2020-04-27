@@ -11,12 +11,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You will need the following for running this script-
-    1)Python3 installed in your system
-    2)Firefox web browser with Firefox webdriver
-    3)pip3
-    4)selenium
-    5)requests
+You will need the following for running this script-<br/>
+>>1)Python3 installed in your system<br/>
+>>2)Firefox web browser with Firefox webdriver<br/>
+>>3)pip3<br/>
+>>4)selenium<br/>
+>>5)requests<br/>
 
 
 
