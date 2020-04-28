@@ -63,13 +63,15 @@ This project is not any kind of extention of any other project
 
 ## Deployment
 
->1. Clone the project
->2. Follow the installation instructions
->3. Open script.py file in any text editor
->4. Now, in line 20 and 21 edit your instagram credentials
->5. Now, edit the username of VICTIM in line 40 and 43
->6. Save the insta-spam-script.py file
->7. Open terminal and run the following command
+>1. Clone the project<br/>
+>2. Follow the installation instructions<br/>
+>3. Open script.py file in any text editor<br/>
+>4. Now, in line 73 replace the following with your credentials, victim's username and number of messages to be send<br/>
+```elm
+('<Username>', '<Password>', '<victim_username>', <Number of messages to be spammed>)
+```
+>6. Save the insta-spam-script.py file<br/>
+>7. Open terminal and run the following command<br/>
 ```elm
 cd Downloads/Instagram-Spam-Bot-master
 python3 script.py
