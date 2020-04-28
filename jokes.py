@@ -9,7 +9,7 @@ def geeks():
     return (data)
 
 def chuck_norris():
-  url = "http://api.icndb.com/jokes/random"
+  url = "https://api.icndb.com/jokes/random"
   resp = requests.get(url)
   resp.encoding = "utf-8"
   data = resp.json()
