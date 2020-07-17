@@ -5,7 +5,7 @@
 </center>
 
 # Instagram-Spam-Bot!
-### Coded by: @holps-7 (https://github.com/holps-7/Instagram-Spam-Bot/)
+### Coded by: [@holps-7](https://github.com/holps-7/Instagram-Spam-Bot/)
 ### Give me the credits if you copy ANY part from this code. Don't be NOOB!!
 ## Star this repo if you liked the project!
 
