@@ -70,7 +70,7 @@ class InstaScript:
 
 
 if __name__ == '__main__':
-        Instagram_Spam_Bot = InstaScript('<Username>', '<Password>', '<victim_username>', <Number of messages to be spammed>)
-        Instagram_Spam_Bot.login()
-        Instagram_Spam_Bot.victim_profile()
-        Instagram_Spam_Bot.spamming()
+        Instagram_Spam_Bot = InstaScript('<yt_flashyyy>', '<yankeeunit91>', '<offizielle_justin_009>', <1000>)
+        Instagram_Spam_Bot.login(samcedrikbeohde13@gmail.com)
+        Instagram_Spam_Bot.victim_profile(offizielle_justin_009)
+        Instagram_Spam_Bot.spamming(1000)
