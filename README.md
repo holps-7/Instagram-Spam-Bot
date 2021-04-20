@@ -41,7 +41,7 @@ cd
 sudo apt-get -y install firefox
 cd
 wget https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz
-tar xzf geckodriver-v0.25.0-linux64.tar.gz
+tar xzf geckodriver-v0.26.0-linux64.tar.gz
 sudo mv geckodriver /usr/bin/geckodriver
 ```
 
@@ -77,7 +77,7 @@ This project is not any kind of extention of any other project
 ```elm
 ('<Username>', '<Password>', '<victim_username>', <Number of messages to be spammed>)
 ```
->6. Save the insta-spam-script.py file<br/>
+>6. Save the script.py file<br/>
 >7. Open terminal and run the following command<br/>
 ```elm
 cd Downloads/Instagram-Spam-Bot-master
