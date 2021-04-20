@@ -60,7 +60,7 @@ class InstaScript:
         message_area = browser.find_element_by_xpath("//textarea[@placeholder='Message...']")
         message_area.click()
         message_area.send_keys("Revenge, the sweetest morsel to the mouth that ever was cooked in hell.", Keys.ENTER)
-        for i in range(0, self.number):
+        for _ in range(0, self.number):
             message_area = browser.find_element_by_xpath("//textarea[@placeholder='Message...']")
             message_area.click()
             message_area.send_keys(jokes.get_msg(), Keys.ENTER)
