@@ -44,6 +44,15 @@ wget https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodrive
 tar xzf geckodriver-v0.26.0-linux64.tar.gz
 sudo mv geckodriver /usr/bin/geckodriver
 ```
+##### For Windows:
+
+>1. Install [Firefox](https://www.mozilla.org/en-US/firefox/new/) <br>
+>2. Download -> 32bit - [geckodriver](https://github.com/mozilla/geckodriver/releases/download/v0.29.1/geckodriver-v0.29.1-win32.zip), 64bit - [geckodriver](https://github.com/mozilla/geckodriver/releases/download/v0.29.1/geckodriver-v0.29.1-win64.zip) - Download the zip folder and extract it <br>
+>3. Add the file present in the extracted folder to the path <br>
+
+To add the file to path, paste it here (at this location) -> <br>
+`C: -> Users -> <name_of_your_pc> -> AppData -> Local -> Programs -> Python -> Python<version_>`
+
 
 
 #### 3) Installing pip3
