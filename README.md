@@ -68,6 +68,10 @@ cd
 pip3 install selenium
 pip3 install requests
 ```
+or
+```elm
+pip3 install -r requirements.txt
+```
 
 
 
